@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ingano irenze MaxPermutationSize (ibice 100M, ~ 800MB)",
+      "size_negative": "ingano igomba kuba itari nziza"
+    }
+  }
+}

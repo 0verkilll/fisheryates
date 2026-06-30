@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "आकार MaxPermutationSize पेक्षा जास्त आहे (१००M घटक, ~८००MB)",
+      "size_negative": "आकार ऋणात्मक नसावा."
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "سائز MaxPermutationSize سے زیادہ ہے (100M عناصر، ~800MB)",
+      "size_negative": "سائز غیر منفی ہونا چاہئے"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "Magnitudo MaxPermutationSize excedit (100M elementorum, ~800MB)",
+      "size_negative": "magnitudo non negativa esse debet"
+    }
+  }
+}

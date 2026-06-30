@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "kukula kumaposa MaxPermutationSize (100M element, ~800MB)",
+      "size_negative": "kukula kuyenera kukhala kosagwirizana"
+    }
+  }
+}

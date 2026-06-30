@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ʻoi aku ka nui ma mua o MaxPermutationSize (100M mau mea, ~800MB)",
+      "size_negative": "pono ʻole ka nui"
+    }
+  }
+}

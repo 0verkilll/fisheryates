@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "guddinni MaxPermutationSize (elementiiwwan 100M, ~800MB) caala.",
+      "size_negative": "guddinni negaatiivii hin taane ta’uu qaba"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "bonene eleki MaxPermutationSize (100M biloko, ~800MB)",
+      "size_negative": "bonene esengeli kozala oyo ezali ya mabe te"
+    }
+  }
+}

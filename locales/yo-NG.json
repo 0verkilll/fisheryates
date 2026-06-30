@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "Iwọn ti kọja Iwọn MaxPemutation (awọn eroja 100M, ~ 800MB)",
+      "size_negative": "iwọn gbọdọ jẹ ti kii-odi"
+    }
+  }
+}

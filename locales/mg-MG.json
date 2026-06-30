@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "mihoatra ny MaxPermutationSize ny habeny (singa 100M, ~ 800MB)",
+      "size_negative": "ny habeny dia tsy maintsy tsy miiba"
+    }
+  }
+}

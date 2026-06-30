@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "bonya bɛ tɛmɛ MaxPermutationSize kan (100M fɛnw, ~800MB)",
+      "size_negative": "bonya ka kan ka kɛ fɛn ye min tɛ kojugu ye"
+    }
+  }
+}

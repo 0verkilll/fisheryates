@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "madhësia tejkalon MaxPermutationSize (100M elementë, ~800MB)",
+      "size_negative": "madhësia duhet të jetë jo-negative"
+    }
+  }
+}

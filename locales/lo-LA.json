@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ຂະໜາດເກີນ MaxPermutationSize (100M ອົງປະກອບ, ~800MB)",
+      "size_negative": "ຂະໜາດຕ້ອງບໍ່ແມ່ນທາງລົບ"
+    }
+  }
+}

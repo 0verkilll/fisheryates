@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "Nha gafere MaxPermutationSize (ihe 100M, ~ 800MB)",
+      "size_negative": "nha ga-abụrịrị na-adịghị mma"
+    }
+  }
+}

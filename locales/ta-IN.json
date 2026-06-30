@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "அளவு MaxPermutationSize ஐ மீறுகிறது (100M கூறுகள், ~800MB)",
+      "size_negative": "அளவு எதிர்மறையாக இருக்கக்கூடாது."
+    }
+  }
+}

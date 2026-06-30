@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "పరిమాణం MaxPermutationSize (100M ఎలిమెంట్లు, ~800MB) కంటే ఎక్కువగా ఉంది.",
+      "size_negative": "పరిమాణం రుణాత్మకంగా ఉండకూడదు."
+    }
+  }
+}

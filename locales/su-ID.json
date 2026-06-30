@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ukuran ngaleuwihan MaxPermutationSize (100M elemen, ~800MB)",
+      "size_negative": "ukuranana kedah non-négatip"
+    }
+  }
+}

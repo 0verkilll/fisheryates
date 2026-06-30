@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "kɛse boro MaxPermutationSize (100M nneɛma, ~800MB) .",
+      "size_negative": "ɛsɛ sɛ kɛseyɛ yɛ nea ɛnyɛ nea enye"
+    }
+  }
+}

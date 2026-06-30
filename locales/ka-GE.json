@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ზომა აღემატება MaxPermutationSize-ს (100 მილიონი ელემენტი, ~800 მბ)",
+      "size_negative": "ზომა უნდა იყოს არაუარყოფითი"
+    }
+  }
+}

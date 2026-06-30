@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "വലുപ്പം MaxPermutationSize കവിയുന്നു (100M ഘടകങ്ങൾ, ~800MB)",
+      "size_negative": "വലുപ്പം നെഗറ്റീവ് ആകരുത്"
+    }
+  }
+}

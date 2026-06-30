@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "መጠኑ ከ MaxPermutationSize (100M አባሎች፣ ~ 800ሜባ) ይበልጣል",
+      "size_negative": "መጠኑ አሉታዊ ያልሆነ መሆን አለበት"
+    }
+  }
+}

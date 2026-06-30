@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "اندازه د MaxPermutationSize څخه زیاته ده (۱۰۰ ملیون عناصر، ~۸۰۰ ایم بی)",
+      "size_negative": "اندازه باید غیر منفي وي"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "dimensiunea depășește MaxPermutationSize (100 milioane de elemente, ~800 MB)",
+      "size_negative": "dimensiunea trebuie să fie non-negativă"
+    }
+  }
+}

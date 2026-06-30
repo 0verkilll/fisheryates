@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "grandeco superas MaxPermutationSize (100M elementoj, ~800MB)",
+      "size_negative": "grandeco devas esti nenegativa"
+    }
+  }
+}

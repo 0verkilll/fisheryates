@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "કદ MaxPermutationSize (100M તત્વો, ~800MB) કરતાં વધી ગયું છે.",
+      "size_negative": "કદ બિન-ઋણાત્મક હોવું જોઈએ"
+    }
+  }
+}

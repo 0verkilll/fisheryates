@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "boyut MaxPermutationSize\u0026#39;ı aşıyor (100M öğe, ~800MB)",
+      "size_negative": "boyut negatif olmamalıdır"
+    }
+  }
+}

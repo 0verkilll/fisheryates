@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "grutte grutter as MaxPermutationSize (100M eleminten, ~800MB)",
+      "size_negative": "grutte moat net-negatyf wêze"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "Το μέγεθος υπερβαίνει το MaxPermutationSize (100 εκατομμύρια στοιχεία, ~800MB)",
+      "size_negative": "το μέγεθος πρέπει να είναι μη αρνητικό"
+    }
+  }
+}

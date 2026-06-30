@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "چوڭلۇقى MaxPermutationSize دىن ئېشىپ كەتتى (100M ئېلېمېنت ، ~ 800MB)",
+      "size_negative": "چوڭلۇقى چوقۇم مەنپىي ئەمەس"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "sayaynin MaxPermutationSize (100M elementokuna, ~800MB) nisqamanta aswan hatunmi.",
+      "size_negative": "hatun kayninqa mana mana allinchu kanan"
+    }
+  }
+}

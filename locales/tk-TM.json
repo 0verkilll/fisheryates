@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ululygy MaxPermutationSize-den ýokary (100M element, ~ 800MB)",
+      "size_negative": "ululygy negatiw däl bolmaly"
+    }
+  }
+}

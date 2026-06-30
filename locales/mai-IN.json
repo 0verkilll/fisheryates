@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "आकार MaxPermutationSize (100M तत्व, ~ 800MB) स बेसी अछि",
+      "size_negative": "आकार गैर-नकारात्मक हेबाक चाही"
+    }
+  }
+}

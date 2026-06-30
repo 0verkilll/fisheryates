@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ti kadakkel ket lumablabas iti MaxPermutationSize (100M nga elemento, ~800MB) .",
+      "size_negative": "masapul a saan a negatibo ti kadakkelna"
+    }
+  }
+}

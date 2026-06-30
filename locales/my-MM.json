@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "အရွယ်အစားသည် MaxPermutationSize (100M ဒြပ်စင်များ, ~800MB) ကျော်လွန်သည်",
+      "size_negative": "အရွယ်အစားသည် အနုတ်လက္ခဏာမဟုတ်ပေ။"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "usayizi udlula i-MaxPermutationSize (ama-elementi angu-100M, ~800MB)",
+      "size_negative": "usayizi akumele ube negethivu"
+    }
+  }
+}

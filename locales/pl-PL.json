@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "rozmiar przekracza MaxPermutationSize (100M elementów, ~800MB)",
+      "size_negative": "rozmiar musi być nieujemny"
+    }
+  }
+}

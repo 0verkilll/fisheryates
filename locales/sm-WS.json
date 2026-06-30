@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "tele e sili atu i le MaxPermutationSize (100M elemene, ~800MB)",
+      "size_negative": "lapopoa e tatau ona le lelei"
+    }
+  }
+}

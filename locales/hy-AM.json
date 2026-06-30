@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "չափը գերազանցում է MaxPermutationSize-ը (100 միլիոն տարր, ~800 ՄԲ)",
+      "size_negative": "չափը պետք է լինի ոչ բացասական"
+    }
+  }
+}

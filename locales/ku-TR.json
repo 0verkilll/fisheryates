@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "mezinahî ji MaxPermutationSize (100M element, ~800MB) derbas dibe",
+      "size_negative": "mezinahî divê ne-neyînî be"
+    }
+  }
+}

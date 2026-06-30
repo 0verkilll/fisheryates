@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "Girman ya wuce MaxPermutationSize (abubuwan 100M, ~ 800MB)",
+      "size_negative": "girman dole ne ya zama mara kyau"
+    }
+  }
+}

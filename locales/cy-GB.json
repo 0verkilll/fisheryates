@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "mae\u0026#39;r maint yn fwy na MaxPermutationSize (100M o elfennau, ~800MB)",
+      "size_negative": "rhaid i\u0026#39;r maint fod yn an-negatif"
+    }
+  }
+}

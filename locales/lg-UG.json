@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "sayizi esukka MaxPermutationSize (ebintu 100M, ~800MB)",
+      "size_negative": "sayizi erina okuba nga si ya negativu"
+    }
+  }
+}

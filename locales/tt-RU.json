@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "зурлыгы MaxPermutationSize-тан артып китә (100М элементлары, M 800МБ)",
+      "size_negative": "зурлыгы тискәре булмаган булырга тиеш"
+    }
+  }
+}

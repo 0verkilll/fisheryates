@@ -1,0 +1,10 @@
+github.com/0verkilll/f5prng v1.0.1 h1:MS7zK/kg3bl01qXiBHK9j1gUeY5Ih0glB9/20uM/4fw=
+github.com/0verkilll/f5prng v1.0.1/go.mod h1:4tWPYPAUz0Dsyy0yHbZ0lrr4LTL19w7utRT2Le+O/qM=
+github.com/0verkilll/i18n v1.0.1 h1:OX1s5fVlpD/0FQLeVTwnOxSQF0OV3+jwDDC2qdD/GEk=
+github.com/0verkilll/i18n v1.0.1/go.mod h1:gfxcHdQETIeXP6nnSzmJiyOixvB+o7HWNonTl3bZiw0=
+github.com/0verkilll/logger v1.0.1 h1:ndUXNZUPbSW00cZgHxdGkaA/yQ5KFk7Urd8Odq3iwNM=
+github.com/0verkilll/logger v1.0.1/go.mod h1:YvyHCPAitAcs9tfTaR5NfiEqVxSWvLlGv/vkLDDISxQ=
+github.com/0verkilll/securerandom v1.0.1 h1:wE06a9hcYOStFjTo1EJVLIKhoW7iD9JC6AqlnnmHnZw=
+github.com/0verkilll/securerandom v1.0.1/go.mod h1:/3ZcHOXH84xWD4evbOCv2rhXOmdfoKWSK+bZQWZp334=
+github.com/0verkilll/sha1 v1.0.1 h1:ac6KU3v8PJcf5oOwYTCwcRK4KWNQeAIRDLY5TabQKk0=
+github.com/0verkilll/sha1 v1.0.1/go.mod h1:HJVJRUupulzueB8RXcT+ONghmRWcuxvnIXbp/RIWsr4=

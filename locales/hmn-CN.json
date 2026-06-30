@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "loj tshaj MaxPermutationSize (100M ntsiab lus, ~ 800MB)",
+      "size_negative": "qhov loj me yuav tsum tsis yog qhov tsis zoo"
+    }
+  }
+}

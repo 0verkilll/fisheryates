@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ubungakanani budlula uMaxPermutationSize (100M element, ~800MB)",
+      "size_negative": "ubungakanani kufuneka bungabi-negative"
+    }
+  }
+}

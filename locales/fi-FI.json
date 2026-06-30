@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "koko ylittää MaxPermutationSize-arvon (100 miljoonaa elementtiä, ~800 Mt)",
+      "size_negative": "koon on oltava ei-negatiivinen"
+    }
+  }
+}

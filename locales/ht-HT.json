@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "gwosè a depase MaxPermutationSize (100M eleman, ~800MB)",
+      "size_negative": "gwosè a pa dwe negatif"
+    }
+  }
+}

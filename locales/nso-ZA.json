@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "bogolo bo feta MaxPermutationSize (100M dielemente, ~ 800MB)",
+      "size_negative": "bogolo e swanetše go ba bjo bo sego bjo bobe"
+    }
+  }
+}

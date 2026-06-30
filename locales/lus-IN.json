@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "size chu MaxPermutationSize (100M elements, ~800MB) aia tam a ni.",
+      "size_negative": "size chu non-negative a ni tur a ni"
+    }
+  }
+}

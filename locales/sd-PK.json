@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "سائيز MaxPermutationSize کان وڌيڪ آهي (100M عنصر، ~800MB)",
+      "size_negative": "سائيز غير منفي هجڻ گهرجي."
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "lolome wu MaxPermutationSize (nu 100M, ~ 800MB)",
+      "size_negative": "ele be lolome nanye esi menye nu gbegblẽ o"
+    }
+  }
+}

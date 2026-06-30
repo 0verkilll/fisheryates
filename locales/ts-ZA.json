@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "vukulu byi tlula MaxPermutationSize (100M swiaki, ~800MB)",
+      "size_negative": "vukulu byi fanele ku va lebyi nga riki bya negative"
+    }
+  }
+}

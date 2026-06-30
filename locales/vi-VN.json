@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "kích thước vượt quá MaxPermutationSize (100M phần tử, ~800MB)",
+      "size_negative": "kích thước phải không âm"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "андоза аз MaxPermutationSize зиёд аст (элементҳои 100M, ~800MB)",
+      "size_negative": "андоза бояд манфй набошад"
+    }
+  }
+}

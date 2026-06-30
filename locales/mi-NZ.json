@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "nui ake te rahi i te MaxPermutationSize (100M huānga, ~800MB)",
+      "size_negative": "me kore kino te rahi"
+    }
+  }
+}

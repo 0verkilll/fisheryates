@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "өлшемі MaxPermutationSize мәнінен асады (100M элемент, ~800МБ)",
+      "size_negative": "өлшемі теріс емес болуы керек"
+    }
+  }
+}

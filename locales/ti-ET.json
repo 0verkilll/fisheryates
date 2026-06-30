@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "መጠን ካብ MaxPermutationSize (100M ባእታታት፣ ~800MB) ይሓልፍ",
+      "size_negative": "ስፍሓት ዘይኣሉታዊ ክኸውን ኣለዎ።"
+    }
+  }
+}

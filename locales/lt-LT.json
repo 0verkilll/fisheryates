@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "dydis viršija „MaxPermutationSize“ (100 mln. elementų, ~800 MB)",
+      "size_negative": "dydis negali būti neigiamas"
+    }
+  }
+}

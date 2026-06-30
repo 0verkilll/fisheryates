@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ಗಾತ್ರವು MaxPermutationSize ಗಿಂತ ಹೆಚ್ಚಾಗಿದೆ (100M ಅಂಶಗಳು, ~800MB)",
+      "size_negative": "ಗಾತ್ರವು ಋಣಾತ್ಮಕವಾಗಿರಬಾರದು."
+    }
+  }
+}

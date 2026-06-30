@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "La taille dépasse MaxPermutationSize (100 millions d\u0026#39;éléments, ~800 Mo)",
+      "size_negative": "La taille doit être non négative."
+    }
+  }
+}

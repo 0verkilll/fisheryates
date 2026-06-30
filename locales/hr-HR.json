@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "veličina premašuje MaxPermutationSize (100 milijuna elemenata, ~800 MB)",
+      "size_negative": "veličina mora biti nenegativna"
+    }
+  }
+}

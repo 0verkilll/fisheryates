@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "大小超过 MaxPermutationSize（1 亿个元素，约 800MB）",
+      "size_negative": "大小必须为非负数。"
+    }
+  }
+}

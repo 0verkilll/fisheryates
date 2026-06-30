@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "a méret meghaladja a MaxPermutationSize értéket (100 millió elem, ~800 MB)",
+      "size_negative": "a méretnek nem negatívnak kell lennie"
+    }
+  }
+}

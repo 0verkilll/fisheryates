@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "आकारः MaxPermutationSize (100M तत्त्वानि, ~800MB) अतिक्रमति ।",
+      "size_negative": "आकारः अऋणात्मकः भवितुमर्हति"
+    }
+  }
+}

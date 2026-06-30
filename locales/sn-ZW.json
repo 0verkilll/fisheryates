@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "saizi inodarika MaxPermutationSize (100M zvinhu, ~800MB)",
+      "size_negative": "saizi inofanira kunge isiri-negative"
+    }
+  }
+}

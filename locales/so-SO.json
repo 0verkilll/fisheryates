@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "Cabbirku wuu dhaafaa MaxPermutationSize (100M curiye, ~ 800MB)",
+      "size_negative": "cabbirku waa inuu noqdaa mid aan taban"
+    }
+  }
+}

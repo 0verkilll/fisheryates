@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "הגודל חורג מ-MaxPermutationSize (100 מיליון אלמנטים, ~800MB)",
+      "size_negative": "הגודל חייב להיות לא שלילי"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "grootte oorskry MaxPermutationSize (100M elemente, ~800MB)",
+      "size_negative": "grootte moet nie-negatief wees"
+    }
+  }
+}

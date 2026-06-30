@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "veľkosť presahuje MaxPermutationSize (100M prvkov, ~800MB)",
+      "size_negative": "veľkosť musí byť nezáporná"
+    }
+  }
+}

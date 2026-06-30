@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ਆਕਾਰ MaxPermutationSize (100M ਐਲੀਮੈਂਟ, ~800MB) ਤੋਂ ਵੱਧ ਹੈ।",
+      "size_negative": "ਆਕਾਰ ਗੈਰ-ਨਕਾਰਾਤਮਕ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ"
+    }
+  }
+}

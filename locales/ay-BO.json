@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "tamapax MaxPermutationSize (100M elementos, ~800MB) ukat sipanx juk’ampiwa.",
+      "size_negative": "tamapax jan negativo ukhamäñapawa"
+    }
+  }
+}

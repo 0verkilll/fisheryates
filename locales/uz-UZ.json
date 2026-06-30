@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "hajmi MaxPermutationSize dan oshadi (100M element, ~800MB)",
+      "size_negative": "hajmi salbiy bo\u0026#39;lmasligi kerak"
+    }
+  }
+}

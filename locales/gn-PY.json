@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "tuichakue ohasa MaxPermutationSize (100M elemento, ~800MB)",
+      "size_negative": "tuichaha ndaha’éi va’erã negativo"
+    }
+  }
+}

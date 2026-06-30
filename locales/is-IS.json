@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "Stærð fer yfir MaxPermutationSize (100M einingar, ~800MB)",
+      "size_negative": "stærðin má ekki vera neikvæð"
+    }
+  }
+}

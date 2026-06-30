@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "boholo bo feta MaxPermutationSize (100M elements, ~800MB)",
+      "size_negative": "boholo bo tlameha ho se be mpe"
+    }
+  }
+}

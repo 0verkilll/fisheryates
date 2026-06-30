@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "suurus ületab MaxPermutationSize\u0026#39;i (100M elementi, ~800MB)",
+      "size_negative": "suurus ei tohi olla negatiivne"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ukubwa unazidi MaxPermutationSize (vipengee 100M, ~800MB)",
+      "size_negative": "saizi lazima iwe isiyo hasi"
+    }
+  }
+}

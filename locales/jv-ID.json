@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "ukuran ngluwihi MaxPermutationSize (elemen 100M, ~800MB)",
+      "size_negative": "ukuran kudu non-negatif"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "আকাৰে MaxPermutationSize (100M উপাদান, ~800MB) অতিক্ৰম কৰে",
+      "size_negative": "আকাৰ অঋণাত্মক হ’ব লাগিব"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "id-daqs jaqbeż il-MaxPermutationSize (100M elementi, ~800MB)",
+      "size_negative": "id-daqs irid ikun mhux negattiv"
+    }
+  }
+}

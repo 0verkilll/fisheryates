@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "قەبارەی لە MaxPermutationSize زیاترە (100M توخم، ~800MB)",
+      "size_negative": "قەبارەی دەبێت نانەرێنی بێت"
+    }
+  }
+}

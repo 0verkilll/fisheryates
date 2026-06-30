@@ -1,0 +1,8 @@
+{
+  "fisheryates": {
+    "error": {
+      "size_exceeds_max": "izmērs pārsniedz maksimālo pieļaujamo permutācijas izmēru (100 miljoni elementu, ~800 MB)",
+      "size_negative": "izmēram jābūt nenegatīvam"
+    }
+  }
+}
